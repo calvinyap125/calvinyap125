@@ -4,9 +4,9 @@
 
 🎵 Listening to : Blackpink
 
-🌱 I’m currently learning Typescript
+🌱 I’m currently learning : Typescript
 
-🌱 Favourite langauge is: Determining....
+🌱 Favourite langauge Determining....
 
 📫 How to reach me :
 
