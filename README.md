@@ -4,7 +4,7 @@
 
 🎵 Listening to : Blackpink
 
-🌱 I’m currently learning : Typescript
+🌱 I’m currently learning : None
 
 🌱 Favourite langauge Determining....
 
