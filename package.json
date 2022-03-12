@@ -1,0 +1,15 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.4.0",
+    "images-scraper": "^6.4.0"
+  },
+  "description": ""
+}
